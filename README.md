@@ -8,5 +8,5 @@ for class demonstration
 
 #image demo 
 
-![art image from Reddit](https://i.redd.it/v6bllw52rzq41.jpg)
+[goto NPR](http://npr.org)
 ![art still from Reddit](dh150demo.jpg)
