@@ -1,7 +1,7 @@
 # Assignment01: Heuristic Evaluation
-#### Anjenica (Nikki) Ramos
-#### DH 150: User Experience Design, Spring 2020 - Prof. Cho
+Anjenica (Nikki) Ramos
+DH 150: User Experience Design, Spring 2020 - Prof. Cho
 
-## Working Interest: Coronavirus Resource Site Improvement
-When deciding what kind of public websites/apps I wanted to evaluation, what mattered most to me was its relevance and utility.
-So
+### Working Interest: Coronavirus Resource Site Improvement
+When deciding what kind of public websites/apps I wanted to evaluation, what mattered most to me was its relevance and utility. Inspired by current events, I'm interested in focusing my heuristic evaluation here, as well as my overall project, on government resources in relation to the ongoing COVID-19 pandemic. My first site of choice is the Coronavirus information site for the World Health Organization (WHO), serving as as a trustworthy international source on COVID-19. The second is the state of California's re-employment initiative, which seeks to find jobs for those whose employments were affected by the pandemic.
+In real time, we are seeing the pivotal role of information (and misinformation) in influencing public action. I believe the manner this information is conveyed its also key in making sure it is effective and enacted, and, in this way, UX design plays an underlying part in the connection of information and resources. Especially in quarantine conditions where human interaction is restricted, it is especially hard to seek help from others. We are critically reliant on the internet to navigate this time. Therefore, it is an underlying urgency that we ensure these online resources' usability.  
