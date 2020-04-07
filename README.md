@@ -1,6 +1,7 @@
 # Anjenica (Nikki) Ramos
-## DH 150: User Experience Design
-## Spring 2020 - Prof. Sookie Cho
+### DH 150: User Experience Design
+
+### Spring 2020 - Prof. Sookie Cho
 
 #### Working Interest: Coronavirus Resource Site Improvement
 
