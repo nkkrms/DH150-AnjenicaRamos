@@ -15,6 +15,8 @@ In real time, we are seeing the way information (and misinformation, and confusi
 
 ## Site01: [World Health Organization: COVID-19 Pandemic](https://www.who.int/emergencies/diseases/novel-coronavirus-2019)
 
+![WHO Covid-19 site](01.0cropped.jpg)
+
 #### 1. Visibility of System Status
 A hotizontal section of the site is dedicated to statistics of the current outbreak, displaying the number of confirmed cases (presumably worldwide, since it doesn't explicitly say), confirmed deaths (again, assumed to be worldwide), and the count of countries infected. What's nice in this section is they include in a smaller, undistracting font, when these values are updated (which is within the day of when I viewed it). Since users can see these are quite current, it increases the reliability of the site. I would just specify that these are worldwide demographics. 
    ##### Severity: 1
