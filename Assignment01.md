@@ -36,6 +36,8 @@ This is critical since a countless people will be viewing this site, all coming 
    ##### Severity: n/a - good as is
 
 #### 3. User Control + Freedom
+
+![page path](heur6.jpg)
 At the top of each page, the site displays the page path in respect to the WHO's main page, which is helpful in keeping in mind what areas and categories of the site you are on as you delve deeper into its contents. Each page 'outside' of the one you're currently on is hyperlinked as well, which provides an easy exit and way to backtrack your steps, as you can return to the previous page by clicking on the parent link. My only critique would be that, since some sites are linked to other areas of the WHO site, it would be beneficial to standardize this page path in respect to the coronavirus site instead of the page paths of other areas. (ex. while x article is also in /Newsroom/Articles/2019/x, it would be better if the path is shown as the one relevant to how the user got there, i.e. COVID-19 Home/Media Resources/x)
 ##### Severity: 2
 
@@ -44,6 +46,7 @@ At the top of each page, the site displays the page path in respect to the WHO's
 Much of the problems with the WHO COVID-19 site is its interface in general: the site's layout, how information is organized, and the lack of internal consistency throughout. For one, the "Your questions answered" bar at top of the page opens a tab headed as ["Q&A on coronaviruses (COVID-19)"] (https://www.who.int/news-room/q-a-detail/q-a-coronaviruses), which features a list of questions on an accordion list whose answers can be displayed when clicked on an expanded. It'd be nice if there was just consistency between the names of these two pages, as the Q&A area is actually not a part of the WHO's coronavirus sites, but its Newsroom tab. While this is just one example, I found this to be the case for various links, where the COVID-19 main page links to different areas of the WHO's site. It just makes you second guess whether it's *supposed* to lead here, since names and page formats don't line up. 
    ##### Severity: 3
 
+![categorization](01.consistency.png)
 Also, there is a large discrepancy between how informaiton is categorized at the top of the page versus the bottom. The top of the landing page displays the various tabs to click on, while the bottom of the page features 4 columns with links, which feature open to much of the same pages some of the time, while others don't. How they re-organize the 10 tabs into 4 options also seems arbitrary, as a several top page bars are chunked under "Your questions answered," while the "Research and Developments" bar gets its own list despite it being probably less popular. Another case, there is a ["Your questions answered"](https://www.who.int/news-room/q-a-detail/q-a-coronaviruses) bar at the top of the page, while the bottom's "What you need to know" list displays a ["Questions & answers"](https://www.who.int/news-room/q-a-detail) link, which leads to completely different Q&A page that is barely related to COVID-19 at all, since it seems to be a general masterlist of questions for the WHO (with infinite scroll and no topic-based organization), with only a couple questions being relevant to COVID-19. 
    ##### Severity: 3
 
@@ -59,7 +62,10 @@ Also, more cosmetic, the site has various inconsistencies in capitalization and 
 
 
 #### 5. Error Prevention 
-Since much of what the user does on the WHO COVID-19 site is seek information, much of the error they can cause would regard how they search and navigate through the site, and so the error prevention would be centered around these features. The search bar, displayed on the top right with a magnifying glass symbol allows you to sift through the WHO's entire site, not just the COVID-19. It expands as a popup over the page you're on, and the user can freely type a phrase or question. Then, the page reloads into a search list (like google), where there are more advanced search settings and filters you can use to clarify your query. At the top of the search results, a suggestion/warning is displayed when accidentally inputing a word/phrase with a typo. If you retype the same/or a different query int othe search bar on this page, it also features autosuggestions based on the word you're typing. I think it'd just be more straightforward to allow users to have these options in the first place when they first click on the magnifying glass, instead of only after they search something the first time. I think the intent of having a simplified first search popup was for convenience, but it may be even more convenient to redo the search having to adjust details a second time. If users just want things more open-ended, they can just ignore these settings to keep searching as is. 
+![search bar](01.questions.png)
+Since much of what the user does on the WHO COVID-19 site is seek information, much of the error they can cause would regard how they search and navigate through the site, and so the error prevention would be centered around these features. The search bar, displayed on the top right with a magnifying glass symbol allows you to sift through the WHO's entire site, not just the COVID-19. It expands as a popup over the page you're on, and the user can freely type a phrase or question. 
+![search page](01.questions2.png)
+Then, the page reloads into a search list (like google), where there are more advanced search settings and filters you can use to clarify your query. At the top of the search results, a suggestion/warning is displayed when accidentally inputing a word/phrase with a typo. If you retype the same/or a different query int othe search bar on this page, it also features autosuggestions based on the word you're typing. I think it'd just be more straightforward to allow users to have these options in the first place when they first click on the magnifying glass, instead of only after they search something the first time. I think the intent of having a simplified first search popup was for convenience, but it may be even more convenient to redo the search having to adjust details a second time. If users just want things more open-ended, they can just ignore these settings to keep searching as is. 
    ##### Severity: 2
 
 
@@ -77,15 +83,17 @@ While the site does feature multiple ways to get to certain pages, I would say t
 
 
 #### 8. Aesthetics + Minimal Design
+![UI columns](01.aesthetics.png)
 The landing page is a long scrolling site with various links to other pages on the site, imbedded videos, and articles. However, what I noticed as I scrolled through was the inconsistencies in how many 'columns' each subsection of the long scroll featured. It would fluctuate between having 3, then 2, then 4, then 2, then 3, then 4 side-by-side items (in that order), which makes everything look quite cluttered. Its easy to be overwhelmed with everything presented, and there is not much intuition as to a natural order of things. Your eyes seem to zigzag and dart across the page, instead of having a clear flow. The lack of symmetry due to the layout is also quite bothersome in an aesthetic sense. When you don't have the page fullscreen, or are viewing it on a mobile device, the site becomes a 1 column scroll through interface, with much of the other design elements carry over - this was much easier to use (and look at). 
    ##### Severity: 3
 
+![bars](01.aestheticsL.png)
 Also, the top of the page's category bars snake around a featured video, which seems to be prominently placed as it is the latest conference update from the WHO. It just makes little sense to me as to why they would format the bars in such way. It would be much more functional and essentials focused if there was a fully horizontal or fully vertical line of these boxes. 
    ##### Severity: 3
 
 #### 9. Helps Users Recognize/Diagnose/Recover from Errors
 This site is meant to serve as an information resource, and evokes simple actions of clicking (pressing links and playing videos), so there is not much error they can 'cause'. 
-
+![404 page](01.9.png)
 Upon testing the site's 404 error display, inspired by the provided past assignment 01s, the WHO does seem to have a designated 'This page cannot be found' protocol. It does express clearly that the user may have come across this error because "the web address is incorrect or the file has been moved or deleted," in this way, allowing them to recognize the problem and diagnose it. They also then prompt actionable solutions to return to the WHO homepage via hyperlink, double-check the URL entered, or report this issue through their suggestions page (also linked). Pretty straightforward and effective.
    ##### Severity: n/a - good as is
 
