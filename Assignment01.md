@@ -106,17 +106,26 @@ There is not an explicit "help" area of the site, nor a shorthand guide as to wh
 
 ## Site02: [CalJobs](https://www.caljobs.ca.gov/vosnet/Default.aspx)
 
-
+![CalJobs site](02.0.jpg)
 
 #### 1. Visibility of System Status
 
+
+
+![Visibility of Systems Status](02.01.jpg)
 When a user makes an account, they enter their personal information and professional background to assess their qualifications for job roles. Upon doing so, saving certain listings enables one to see their particular level of fit. The system does well to give appropriate feedback by telling users how qualified they are for a certain position. 
+##### Severity: n/a - good as is
 
 However, what's not ideal is the site does not have a notification-style system for users to keep track of their messages, matched listings, etc. (like Facebook, for example) which leads to less management ability for the users. In terms of job searches, this can be a critical feature to have (or lack). 
+##### Severity: 3
 
 
 #### 2. Match Between System + Real World
+
+
+![Icons](02.02.jpg)
 This site does, for the most part, use straightforward language on its descriptions. Different resources are named appropriately (ex. "Resume Builder" or "Veteran Services"), which make sense as to what they're trying to do.One part of the site, the Dashboard page, utilizes icons for their multitude of links, allowing users to both to scan through options more efficiently and break up text, as a recurring feature of the site is its overwhelming content/text. I would say, though, that it CalJobs could be improved if these visual cues were implimented throughout the site, as they are seldom present elsewhere. Particularly the side menu panel to the left of the screen, which appears across multiple pages, icons would be helpful to simplify its appearance, leading to the reduction of text descriptions to modernize it even with a more app-like feel. 
+##### Severity: 3
 
 
 
@@ -124,38 +133,62 @@ This site does, for the most part, use straightforward language on its descripti
 #### 3. User Control + Freedom
 CalJobs needs much work to improve their application of this heuristic, as there is little in place to catch mistakes in terms of user input. The site itself does not have its own emergency exits in place, relying on the browser's back button to change states. In the job search feature, typos and invalid inputs do not prompt warnings or corrections. Most inconveniently, this is also the case in the forms one can enter their information to make an account or build a resume. There is no "save progress" option, meaning users have to finish the entire process in one sitting or otherwise start over if interupted, and there is also no "clear form" option to reset a page (you must refresh or go back/reclick). 
 
+##### Severity: 3
 
 
 #### 4. Consistency + Standards
-There is a great lack of internal consistency with the site's interface. Different pages of the site look very different from one another in terms of layout, colors/branding, and features. Pictured is the [Dashboard](https://www.caljobs.ca.gov/vosnet/dashboards/default.aspx?menuid=MENU_START_PAGE_DASHBOARD&pu=1&plang=E) page, which looks quite distinct from the landing site and the job search area. This lack of cohesion makes it a bit confusing to navigate the site as you are not always sure what to expect, and do not intuitively know where certain features may be located, making it also inefficient because there is somehwat of a "learning curve" towards utilizing what is intended to be a government-initiated public resource. 
+
+
+There is a great lack of internal consistency with the site's interface. Different pages of the site look very different from one another in terms of layout, colors/branding, and features. For example, the [Dashboard](https://www.caljobs.ca.gov/vosnet/dashboards/default.aspx?menuid=MENU_START_PAGE_DASHBOARD&pu=1&plang=E) page looks quite distinct from the landing site and the job search area. This lack of cohesion makes it a bit confusing to navigate the site as you are not always sure what to expect, and do not intuitively know where certain features may be located, making it also inefficient because there is somehwat of a "learning curve" towards utilizing what is intended to be a government-initiated public resource. 
+##### Severity: 3
 
 
 #### 5. Error Prevention 
+
+![Search](02.search.png)
 The search bar for the job search site poses minimal utility. It is not a built in feature within the page, which is inconvenient as the page's purpose is to search for something, but is located in the top right corner of the page with a magnifying glass (which does hold external consistency, per heuristic no. 4). Its features are limited: you search for key words and zipcodes or cities. Here, it is unclear how these jobs are organized, and, thus, it is likely a user is missing out on possible entries that may not appear in that particular query. 
+##### Severity: 3
 
 
 #### 6. Recognition > Recall
-When looking at job listings, the information is presented in a long table that encompasses most of the page. Each column describes parts of the listing: date modified, job ID, employer, job title, etc. However, as you scroll down the page, the labels of each category disappears. This is problematic as the user has to constantly scroll back to the top to recall what the column is supposed to be about. While sometimes, you can get away with 'figuring it out' via contextual information (ex. month/day/year format --> indicative of the "Date Last Modified" info), sometimes the information is listed as "Not Available" (as seen in the "Salary", "Employer" columns most often). In general, it'd be best if the user doesn't have to infer this, it should just be available. 
+
+![labels](02.recog2.png)
+When looking at job listings, the information is presented in a long table that encompasses most of the page. Each column describes parts of the listing: date modified, job ID, employer, job title, etc.
+
+![labels](02.recog.png)
+However, as you scroll down the page, the labels of each category disappears. This is problematic as the user has to constantly scroll back to the top to recall what the column is supposed to be about. While sometimes, you can get away with 'figuring it out' via contextual information (ex. month/day/year format --> indicative of the "Date Last Modified" info), sometimes the information is listed as "Not Available" (as seen in the "Salary", "Employer" columns most often). In general, it'd be best if the user doesn't have to infer this, it should just be available. 
+##### Severity: 3
 
 
 #### 7. Flexibility + Effectivity of Use
-Exploring through the site, I discovered a more throrogh job search form, in which there's various criteria one can select and specify to narrow down this search. In this way, this is a more flexible way to accomplish the same thing, enabling those who have more settled specifics in mind to carry out this process. I would say the general critique regards how hidden this feature, and, consequently, underutilized it may be, leading the majority to undergo a lower quality user experience.
 
+![criteria](02.07.png)
+Exploring through the site, I discovered a more throrogh job search form, in which there's various criteria one can select and specify to narrow down this search. In this way, this is a more flexible way to accomplish the same thing, enabling those who have more settled specifics in mind to carry out this process. I would say the general critique regards how hidden this feature, and, consequently, underutilized it may be, leading the majority to undergo a lower quality user experience.
+##### Severity: 2
 
 #### 8. Aesthetics + Minimal Design
+![landing](02.0.jpg)
 Overall, the web UI is extremely outdated and cluttered. Outright in the landing page, the buttons to "Find a Job", "Find a Candidate", and "Find an Office" do not fully display their text (only know what they say because text pops up as you hover over it). 
+##### Severity: 3
 
+![criteria](02.aesthetics.png)
 On the bottom half of the landing page, the display of links and resources is essentially a list: single column, linear, with little distinguishing features as to the hierarchy of information, no use of icons to simplify categorization, etc. 
+##### Severity: 3 
 
-This is what shows when using the job search feature. It is definitely does not apply minimal design, as it is cluttered with too much text all at once. There is little context as to the left tab's purpose in relation to job searching, as it is main menu of sorts for your account and various services. At the very least, this would be better as a horizontal bar at the top of the page, separated from the rest of the page as it draws attention away from the page's purpose of listing job openings. Regarding the job listings as well, there is much work to be done in simplifying its presentation: decreasing the sheer size of the charts and texts and placing clearer boundaries between description. As overwhelming as it is displayed now, this is apparently the summarized view -- the detailed view, though, does not provide much help as it essentially just combines various columns of the summarized chart. 
+As seen in heuristic 6's image of the job search page, there is definitely not apply minimal design, as it is cluttered with too much text all at once. There is little context as to the left tab's purpose in relation to job searching, as it is main menu of sorts for your account and various services. At the very least, this would be better as a horizontal bar at the top of the page, separated from the rest of the page as it draws attention away from the page's purpose of listing job openings. Regarding the job listings as well, there is much work to be done in simplifying its presentation: decreasing the sheer size of the charts and texts and placing clearer boundaries between description. As overwhelming as it is displayed now, this is apparently the summarized view -- the detailed view, though, does not provide much help as it essentially just combines various columns of the summarized chart. 
+##### Severity: 3
 
 
 #### 9. Helps Users Recognize/Diagnose/Recover from Errors
 The site displays the standard 404 error, with no actionable information as to how to circumnavigate this error. Again, with the site's search bar, there is also no spellcheck or format check, so you can misspell words or type long, random numbers for the zipcode, for example, and get no results instead of the system calling it to your attention. Users are left on their own to notice their mistakes, and use the back button of the browser (since none is built into the page) to backtrack. 
+##### Severity: 3
 
 
 #### 10. Help Documentation
 The site does feature a ["Forgot Password?"](https://www.caljobs.ca.gov/vosnet/Retrieval/SelectRetrievalOptions.aspx)  button clearly marked below the account login area. While it still looks rather basic, it does present decent, although improvable, documentation for troubleshooting during login. 
+##### Severity: 1
 
+![help popup](02.10.png)
 Meanwhile, on the job search page, there is an icon that reads "For help click the information icon," feature, which then causes a guide of sorts to appear as a popup window. First of, the icon's placement seems out of place, and it is ironic that the help icon, which ideally serves a minimalistic symbol to communicate its purpose, requires text explantion. However, due to the overload of information, it needs it to stick out to a user. The popup window itself details helpful instructions as to how to navigate the page and interact with the chart (selecting and saving listings), as well as definitions for certain terms. It provides thorough help, though its accessibility is lacking. It would be better if this existed as a page on its own, or was more integrated into the sites features (ex. hovering over certain areas explains its purpose).
+##### Severity: 2
 
