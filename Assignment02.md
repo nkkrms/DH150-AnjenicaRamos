@@ -5,10 +5,6 @@
 #### Working Interest: Coronavirus Resource Site Improvement
 
 #### Purpose of UT 
--Introduction with the name of the web/app you test and what the web/app is about. 
--Report the rationale behind of UT with the list of the usability issues you found from your heuristic reviews
--Indicate that the purpose of the usability testing aims to find out how to improve the web/app from the user's perspective.
-
 The World Health Organization is a trusted international health agency which coordinates health efforts within countries of the United Nations, and, thus, currently serves as a leading source towards COVID-19 initiatives. Their Coronavirus information website features factual basics, advice and resources for the public, as well as regularly updated regulations and statistics of the ongoing pandemic. 
 In this assignment, I will be conducting a usability test to evaluate the site's interface in regards to goals of effectivity, efficiency, and satisfaction towards its purposes as a public resource. Though doing so, I will be able to observe the site in use through a participant's behavior, which can then provide insight towards improvement for the site. 
 Here, I will specifically focus on areas of concern revealed by prior heuristic evaluation: (1) consistency and standards, (2) flexibility and efficiency of us, and (3) aesthetics and minimal design. At first glance, the WHO COVID-19 site does not appear to be problematic, though, exploration reveals various aspects of its design and structuring that hinders its purpose. Predominantly, the site has little standardization in terms of its information's organization, resulting in users ineffectively spending their time sifting through the text-heavy content to find the information they seek. This can lead to a bothersome ordeal and discourage use of the site overall. 
@@ -22,11 +18,8 @@ To do so, I will conduct a pilot test in a portable minimalistic lab (at home) a
 I, as the moderator, will introduce the project and usability testing procedure to the participant. After consenting to the session, I will lead the participant through background, pre-test, task, and post-test questions. During this, the participant will fill out the online form evaluation and talk aloud their thinking process. First, we will capture their first impressions of the site UI prior to any interactions. Then, they will complete four (revised from the original three) tasks designed to highlight the site's problem areas and capture natural troubleshooting by the user. This is meant to test the general functionality of the site. Next, the user will be able to share their opinons of their experience, in addition to the site's effectivity, efficiency, and satisfaction factors. Finally, we will collect demographic data. 
 
 
-[Online Survey]() 
-The link to your online survey (UT materials), share the survey with the instructor
-
-[Pilot UT]()
-The link to your pilot UT video (e.g., youtube or google drive)
+#### [Online Survey](https://forms.gle/FPwEAZ3RF4yn9uPQ6) 
+#### [Pilot UT](https://drive.google.com/file/d/1qsqXdVKyvy6t00NvPUqJdxRhpciL_sK1/view?usp=sharing)
 
 #### Reflection:
 One paragraph describing what you learned during the pilot test, what went well and what went not so well, focusing on how you want to improve your UT in the future.
@@ -37,19 +30,6 @@ This overall covers the success of the UT session, as the testing definitely rev
 
 In relation to conducting the user testing itself, I definitely realize the difference in my perspective as the moderator/tester, as someone who has scowered through the site much more in depth. This definitely attests to gaining empathy towards participants, as the Prof. pointed out within the lecture, because there can be points of frustration and confusion throughout their experience. 
 
-The portions which did not go so well generally regard this first experience of mine fascilitating this process. First off, I did find some typos in my form that I missed despite revising it 2x. Secondly, I realized that I had designed each task of the testing portion independently of eachother and with starting at the home page in mind - I instinctively led the participant to go back to the starting page and remembered immediately after that I am not supposed to intervene. 
+The portions which did not go so well generally regard fascilitating the UT process itself, though I believe it is all room for improvement that comes with more practice and application. First off, I did find a typo or two typos in my form that I missed despite revising it twice. More significantly, though, pilot testing made me realize that I had designed each task of the testing portion independently of eachother and with starting at the home page in mind -- and so I instinctively led the participant to go back to the starting page, remembering immediately after that I am not supposed to intervene this way. In other times, it was taking *active* charge of my role I need to improve upon: I needed to keep in mind that it is up to me as the moderator to read aloud segments of questionnaire and manage the pacing of it, as opposed to letting the participant do so, even though them verbalizing their thinking process led them to do so. 
 
-However, aside that, it was in taking *active* charge of my role I require improvement on: I had to recall that I am supposed to read certain aloud segments of questionnaire and manage the pacing of it, as opposed to letting the participant do so. (I believe this was partly because they were aware they had to talk though their thinking, and so they naturally spoke what they read as well). 
-
-
-What went well
-- tasks revealed various problems in the site 
-- text-heavy, lack of hierarchy, too many clicks to find things
-
-Not went so well
-- typos
-- first time moderating: taking charge of the session
-- interrupting: 
-I realized I designed each task with starting at the homepage in mind, and instinctively led the participant to go back to the starting page and remembered immediately after that I am not supposed to intervene. 
-
-How I want to improve my user 
+From this, I would like to become more comfortable and commending as a moderator in the future. I would also suggest revising the Google Form's Post-Test (part 1's Likert rating) questions to become interlaced with each scenario instead of at the end, as the participant also commended that it was harder to recall each experience to assess alltogether afterwards. 
