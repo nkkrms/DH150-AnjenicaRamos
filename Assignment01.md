@@ -16,7 +16,7 @@ In real time, we are seeing the way information (and misinformation) lead to con
 
 ## Site01: [World Health Organization: COVID-19 Pandemic](https://www.who.int/emergencies/diseases/novel-coronavirus-2019)
 
-![WHO Covid-19 site](01.0cropped.jpg)
+![WHO Covid-19 site](photos/01.0cropped.jpg)
 
 ### 1. Visibility of System Status
 A hotizontal section of the site is dedicated to statistics of the current outbreak, displaying the number of confirmed cases (presumably worldwide, since it doesn't explicitly say), confirmed deaths (again, assumed to be worldwide), and the count of countries infected. What's nice in this section is they include in a smaller, undistracting font, when these values are updated (which is within the day of when I viewed it). Since users can see these are quite current, it increases the reliability of the site. I would just specify that these are worldwide demographics. 
@@ -38,7 +38,7 @@ This is critical since a countless people will be viewing this site, all coming 
 
 ### 3. User Control + Freedom
 
-![page path](heur6.jpg)
+![page path](photos/01.06.jpg)
 At the top of each page, the site displays the page path in respect to the WHO's main page, which is helpful in keeping in mind what areas and categories of the site you are on as you delve deeper into its contents. Each page 'outside' of the one you're currently on is hyperlinked as well, which provides an easy exit and way to backtrack your steps, as you can return to the previous page by clicking on the parent link. My only critique would be that, since some sites are linked to other areas of the WHO site, it would be beneficial to standardize this page path in respect to the coronavirus site instead of the page paths of other areas. (ex. while x article is also in /Newsroom/Articles/2019/x, it would be better if the path is shown as the one relevant to how the user got there, i.e. COVID-19 Home/Media Resources/x)
 ##### Severity: 2
 
@@ -47,7 +47,7 @@ At the top of each page, the site displays the page path in respect to the WHO's
 Much of the problems with the WHO COVID-19 site is its interface in general: the site's layout, how information is organized, and the lack of internal consistency throughout. For one, the "Your questions answered" bar at top of the page opens a tab headed as ["Q&A on coronaviruses (COVID-19)"] (https://www.who.int/news-room/q-a-detail/q-a-coronaviruses), which features a list of questions on an accordion list whose answers can be displayed when clicked on an expanded. It'd be nice if there was just consistency between the names of these two pages, as the Q&A area is actually not a part of the WHO's coronavirus sites, but its Newsroom tab. While this is just one example, I found this to be the case for various links, where the COVID-19 main page links to different areas of the WHO's site. It just makes you second guess whether it's *supposed* to lead here, since names and page formats don't line up. 
    ##### Severity: 3
 
-![categorization](01.consistency.png)
+![categorization](photos/01.consistency.png)
 Also, there is a large discrepancy between how informaiton is categorized at the top of the page versus the bottom. The top of the landing page displays the various tabs to click on, while the bottom of the page features 4 columns with links, which feature open to much of the same pages some of the time, while others don't. How they re-organize the 10 tabs into 4 options also seems arbitrary, as a several top page bars are chunked under "Your questions answered," while the "Research and Developments" bar gets its own list despite it being probably less popular. Another case, there is a ["Your questions answered"](https://www.who.int/news-room/q-a-detail/q-a-coronaviruses) bar at the top of the page, while the bottom's "What you need to know" list displays a ["Questions & answers"](https://www.who.int/news-room/q-a-detail) link, which leads to completely different Q&A page that is barely related to COVID-19 at all, since it seems to be a general masterlist of questions for the WHO (with infinite scroll and no topic-based organization), with only a couple questions being relevant to COVID-19. 
    ##### Severity: 3
 
@@ -63,9 +63,9 @@ Also, more cosmetic, the site has various inconsistencies in capitalization and 
 
 
 ### 5. Error Prevention 
-![search bar](01.questions.png)
+![search bar](photos/01.questions.png)
 Since much of what the user does on the WHO COVID-19 site is seek information, much of the error they can cause would regard how they search and navigate through the site, and so the error prevention would be centered around these features. The search bar, displayed on the top right with a magnifying glass symbol allows you to sift through the WHO's entire site, not just the COVID-19. It expands as a popup over the page you're on, and the user can freely type a phrase or question. 
-![search page](01.questions2.png)
+![search page](photos/01.questions2.png)
 Then, the page reloads into a search list (like google), where there are more advanced search settings and filters you can use to clarify your query. At the top of the search results, a suggestion/warning is displayed when accidentally inputing a word/phrase with a typo. If you retype the same/or a different query int othe search bar on this page, it also features autosuggestions based on the word you're typing. I think it'd just be more straightforward to allow users to have these options in the first place when they first click on the magnifying glass, instead of only after they search something the first time. I think the intent of having a simplified first search popup was for convenience, but it may be even more convenient to redo the search having to adjust details a second time. If users just want things more open-ended, they can just ignore these settings to keep searching as is. 
    ##### Severity: 2
 
@@ -84,17 +84,17 @@ While the site does feature multiple ways to get to certain pages, I would say t
 
 
 ### 8. Aesthetics + Minimal Design
-![UI columns](01.aesthetics.png)
+![UI columns](photos/01.aesthetics.png)
 The landing page is a long scrolling site with various links to other pages on the site, imbedded videos, and articles. However, what I noticed as I scrolled through was the inconsistencies in how many 'columns' each subsection of the long scroll featured. It would fluctuate between having 3, then 2, then 4, then 2, then 3, then 4 side-by-side items (in that order), which makes everything look quite cluttered. Its easy to be overwhelmed with everything presented, and there is not much intuition as to a natural order of things. Your eyes seem to zigzag and dart across the page, instead of having a clear flow. The lack of symmetry due to the layout is also quite bothersome in an aesthetic sense. When you don't have the page fullscreen, or are viewing it on a mobile device, the site becomes a 1 column scroll through interface, with much of the other design elements carry over - this was much easier to use (and look at). 
    ##### Severity: 3
 
-![bars](01.aestheticsL.png)
+![bars](photos/01.aestheticsL.png)
 Also, the top of the page's category bars snake around a featured video, which seems to be prominently placed as it is the latest conference update from the WHO. It just makes little sense to me as to why they would format the bars in such way. It would be much more functional and essentials focused if there was a fully horizontal or fully vertical line of these boxes. 
    ##### Severity: 3
 
 ### 9. Helps Users Recognize/Diagnose/Recover from Errors
 This site is meant to serve as an information resource, and evokes simple actions of clicking (pressing links and playing videos), so there is not much error they can 'cause'. 
-![404 page](01.9.png)
+![404 page](photos/01.9.png)
 Upon testing the site's 404 error display, inspired by the provided past assignment 01s, the WHO does seem to have a designated 'This page cannot be found' protocol. It does express clearly that the user may have come across this error because "the web address is incorrect or the file has been moved or deleted," in this way, allowing them to recognize the problem and diagnose it. They also then prompt actionable solutions to return to the WHO homepage via hyperlink, double-check the URL entered, or report this issue through their suggestions page (also linked). Pretty straightforward and effective.
    ##### Severity: n/a - good as is
 
@@ -110,12 +110,12 @@ There is not an explicit "help" area of the site, nor a shorthand guide as to wh
 
 ## Site02: [CalJobs](https://www.caljobs.ca.gov/vosnet/Default.aspx)
 
-![CalJobs site](02.0.jpg)
+![CalJobs site](photos/02.0.jpg)
 
 ### 1. Visibility of System Status
 
 
-![Visibility of Systems Status](02.01.jpg)
+![Visibility of Systems Status](photos/02.01.jpg)
 When a user makes an account, they enter their personal information and professional background to assess their qualifications for job roles. Upon doing so, saving certain listings enables one to see their particular level of fit. The system does well to give appropriate feedback by telling users how qualified they are for a certain position. 
 ##### Severity: n/a - good as is
 
@@ -126,7 +126,7 @@ However, what's not ideal is the site does not have a notification-style system 
 ### 2. Match Between System + Real World
 
 
-![Icons](02.02.png)
+![Icons](photos/02.02.png)
 This site does, for the most part, use straightforward language on its descriptions. Different resources are named appropriately (ex. "Resume Builder" or "Veteran Services"), which make sense as to what they're trying to do.One part of the site, the Dashboard page, utilizes icons for their multitude of links, allowing users to both to scan through options more efficiently and break up text, as a recurring feature of the site is its overwhelming content/text. I would say, though, that it CalJobs could be improved if these visual cues were implimented throughout the site, as they are seldom present elsewhere. Particularly the side menu panel to the left of the screen, which appears across multiple pages, icons would be helpful to simplify its appearance, leading to the reduction of text descriptions to modernize it even with a more app-like feel. 
 ##### Severity: 3
 
@@ -148,33 +148,33 @@ There is a great lack of internal consistency with the site's interface. Differe
 
 ### 5. Error Prevention 
 
-![Search](02.search.png)
+![Search](photos/02.search.png)
 The search bar for the job search site poses minimal utility. It is not a built in feature within the page, which is inconvenient as the page's purpose is to search for something, but is located in the top right corner of the page with a magnifying glass (which does hold external consistency, per heuristic no. 4). Its features are limited: you search for key words and zipcodes or cities. Here, it is unclear how these jobs are organized, and, thus, it is likely a user is missing out on possible entries that may not appear in that particular query. 
 ##### Severity: 3
 
 
 ### 6. Recognition > Recall
 
-![labels](02.recog2.png)
+![labels](photos/02.recog2.png)
 When looking at job listings, the information is presented in a long table that encompasses most of the page. Each column describes parts of the listing: date modified, job ID, employer, job title, etc.
 
-![labels](02.recog.png)
+![labels](photos/02.recog.png)
 However, as you scroll down the page, the labels of each category disappears. This is problematic as the user has to constantly scroll back to the top to recall what the column is supposed to be about. While sometimes, you can get away with 'figuring it out' via contextual information (ex. month/day/year format --> indicative of the "Date Last Modified" info), sometimes the information is listed as "Not Available" (as seen in the "Salary", "Employer" columns most often). In general, it'd be best if the user doesn't have to infer this, it should just be available. 
 ##### Severity: 3
 
 
 ### 7. Flexibility + Effectivity of Use
 
-![criteria](02.07.png)
+![criteria](photos/02.07.png)
 Exploring through the site, I discovered a more throrough job search form, in which there's various criteria one can select and specify to narrow down this search. In this way, this is a more flexible way to accomplish the same thing, enabling those who have more settled specifics in mind to carry out this process. I would say the general critique regards how hidden this feature, and, consequently, underutilized it may be, leading the majority to undergo a lower quality user experience.
 ##### Severity: 2
 
 ### 8. Aesthetics + Minimal Design
-![landing](02.0.jpg)
+![landing](photos/02.0.jpg)
 Overall, the web UI is extremely outdated and cluttered. Outright in the landing page, the buttons to "Find a Job", "Find a Candidate", and "Find an Office" do not fully display their text (only know what they say because text pops up as you hover over it). 
 ##### Severity: 3
 
-![criteria](02.aesthetics.png)
+![criteria](photos/02.aesthetics.png)
 On the bottom half of the landing page, the display of links and resources is essentially a list: single column, linear, with little distinguishing features as to the hierarchy of information, no use of icons to simplify categorization, etc. 
 ##### Severity: 3 
 
@@ -191,7 +191,7 @@ The site displays the standard 404 error, with no actionable information as to h
 The site does feature a ["Forgot Password?"](https://www.caljobs.ca.gov/vosnet/Retrieval/SelectRetrievalOptions.aspx)  button clearly marked below the account login area. While it still looks rather basic, it does present decent, although improvable, documentation for troubleshooting during login. 
 ##### Severity: 1
 
-![help popup](02.10.png)
+![help popup](photos/02.10.png)
 Meanwhile, on the job search page, there is an icon that reads "For help click the information icon," feature, which then causes a guide of sorts to appear as a popup window. First of, the icon's placement seems out of place, and it is ironic that the help icon, which ideally serves a minimalistic symbol to communicate its purpose, requires text explantion. However, due to the overload of information, it needs it to stick out to a user. The popup window itself details helpful instructions as to how to navigate the page and interact with the chart (selecting and saving listings), as well as definitions for certain terms. It provides thorough help, though its accessibility is lacking. It would be better if this existed as a page on its own, or was more integrated into the sites features (ex. hovering over certain areas explains its purpose).
 ##### Severity: 2
 
