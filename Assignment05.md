@@ -19,7 +19,9 @@ Prior user research enabled me, the designer, to learn basic needs of potential 
 
 ![Dan persona](photos/dan.about.png)
 ![Dan empathy map](photos/dan.empathy.png)
+
 > **Scenario:** Dan is a husband, dad, and history teacher from suburban Georgia. An uplifting, motivated guy, he's trying his best to navigate his family, his students, and his department through the COVID-19 pandemic by relaying key information. He doesn't agree with a local leaders trying to open the state, but his word alone can only mean so much in comparison to an elected politician. He wants to find a reputable source to share with his coworkers, parents, and students, as he gets a lot of emailed questions, which range from wild to genuine concern. He's about as tech-savvy as the next guy, and can presume that those he'd share it with would need something informative, yet easy to navigate and understand.
+
 ![Dan journey](photos/dan.story.png)
 
 
@@ -29,7 +31,9 @@ Prior user research enabled me, the designer, to learn basic needs of potential 
 
 ![Beth persona](photos/beth.about.png)
 ![Beth empathy map](photos/beth.empathy.png)
+
 > **Scenario:** Bethany is a therapist who just relocated to New York City in January, two months before COVID-19 became rampant in her area. As she works from home, she holds some wory about this adjustment period in her life in regards to her own mental health, her clients', and her elderly parents (who call frequently about concerning headlines they see!). As she is new to the area, she is unaware of all the particular resources available to her, and is confused about the fluctuating numbers she sees in news reports. (Could it really be that bad?) It's a bit frustrating to navigate this uncertain situation in an unfamiliar area, which makes her feel helpless even though it's also her job to help others through this time. 
+
 ![Beth journey](photos/beth.story.png)
 
 
@@ -39,5 +43,7 @@ Prior user research enabled me, the designer, to learn basic needs of potential 
 
 ![Kath persona](photos/kath.about.png)
 ![Kath empathy map](photos/kath.empathy.png)
+
 > **Scenario:** Kathryn is a single parent, immigrant, and small business owner down at San Diego. They recently had to close temporarily due to COVID-19 precautions, as she wants to make sure she takes proper steps for her staff and her young daughter. Lately, she has been stressed out and feeling extra fatigued due to the strain of worrying about her business, as well as caring for her child at home. An employee calls her to say that their mother, a nurse, had just tested positive for the virus and that they are now getting tested. She warns Kathryn that, if they may be exposed, she may also have through their interactions. Before she erupts in worry, Kathryn would like a convenient way to inform herself of potential symptoms.
+
 ![Kath journey](photos/kath.story.png)
