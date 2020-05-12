@@ -3,7 +3,7 @@
 ##### DH 150: User Experience Design, Spring 2020 - Prof. Cho
 
 
-### Project Overview: W.H.O. Covid-19 site 
+## Project Overview: W.H.O. Covid-19 site 
 The World Health Organization is a trusted international health agency which coordinates health efforts within countries of the United Nations, and, thus, currently serves as a leading source towards COVID-19 initiatives. This project will povide insight towards improving the presnetation of the information and navigation on their COVID-19 site, which features factual basics, advice and resources, as well as regularly updated regulations and statistics of the ongoing pandemic for the public. Prior user research with site testing and interviews have revealed problems in the current website's interface structure, as well as a lack of key, actionable resources, such as COVID-19 information that pertain to a user's location and a symptom-checker. 
 
 Through the creations of personas and scenarios, I was able to explore these problems further, and my work thusfar has led me to design the following features in a mobile version of the site: 
@@ -19,3 +19,28 @@ Through the creations of personas and scenarios, I was able to explore these pro
 Now, through low-fidelity prototyping, I can begin bringing these ideas to life. Through drafting user interface designs and creating a workflow of users' interactions with the mobile site, I am able to translate the research insights to a (rough!) product. From here, testing is key to see designs in action and gather feedback for improvement. It is always important to consult participants to understand design shortcomings from outside perspectives that the designer may be blind to. From here, we can then refine designs to continue with the product's development. 
 
 
+## Prototype 
+
+### Tasks:
+This low-fidelity prototype features: 
+1. redesigned tabular landing page
+   - mobile friendly 
+   - hierarchical organization based on relevance 
+   - usage of icons / descriptive labeling 
+2. symptom checker (survey)
+   - tracking selected symptoms
+   - providing recommendations
+   - general about symptoms list 
+3. local dashboard 
+   - location services/area selection
+   - links to local government sites
+   - database of local resources + search navigation
+   - database of local news agenices + search 
+etc:
+   - accessibility: avoidance of typing (unless search), scroll/click based
+   - colors not strict, just to distinguish options from buttons!
+   
+### Wireframes/Wireflow
+note: view/save-able versions are [*here*](https://drive.google.com/drive/folders/1321mlnP-ATo8WMRQbyc56xphFG0HGX6K?usp=sharing)
+![wireflow of symptom checker](photos/06.1.png)
+![wireflow of local dashboard](photos/06.2.png)
