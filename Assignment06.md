@@ -52,22 +52,34 @@ video of UT session [*here*]()
 ![wireflow of UT symptom checker]()
 ![wireflow of UT local dashboard()
 
-0: No evidence of testing is provided
-+1: Note the tester’s confusion or unexpected interaction; Note whether the tester could successfully complete the tasks 
 Explain to the person what the system is supposed to do. After that, ask the person to use the prototype to complete each of the tasks you designed, one at a time, without telling the tester how to do it. As the tester taps on the various controls in the prototype, the interaction flow should visually guide the change of the prototype’s state to show the system’s response. It might be a good idea to ask the tester to use a highlighter to follow the interaction points(ex. buttons) and the flow to the next wireframe. 
-Note when the tester gets confused, side-tracked, or stuck in a state s/he can’t get out of. Note if the tester tries to do something in a way that’s different than how you designed the functionality to work. Note if s/he is able to complete the test tasks successfully.
+
+- Note the tester’s confusion or unexpected interaction
+- Note whether the tester could successfully complete the tasks 
+- Note when the tester gets confused, side-tracked, or stuck in a state s/he can’t get out of.
+- Note if the tester tries to do something in a way that’s different than how you designed the functionality to work.
+- Note if s/he is able to complete the test tasks successfully.
 
 
 
 ### Reflections
 
-user testing
+To summarize my process, I initially reviewed my existing user research thusfar to gather key findings: what flaws were most prevalent in the existing site, how users interacted with the site (positively and negatively), users' behaviors and values, and missing feautures that may prove useful. Then, I turned these specific insights into tasks and features I wanted my prototypes to test. I originally created a rough verbal/note tree map to create a foundation for wireframes. In drawing the wireframes, I sought after a mobile-friendly, intuitive, minimalist design in how I presented buttons/options. Afterwards, I established the flow by clarifying the interaction points and each step/screen. I'd say this part went generally smoothly, as it builds on previous weeks' learning and helped me come in with a thought process in mind. It did take longer than antiicipated though, partly because I didn't realize just how much thinking goes into planning out something app/site features: every button, all the order, so much hypothetical thinking (kudos to developers out there). I also did get pretty into it and lost track of time once I got going. 
 
-summary of process (insights --> tasks, make wireframes, turn into wireflow, bring in user testing
-why marked certain things, ut process)
+For user testing, I had the participant try to go about the steps of flow with their own intuition. The only thing I would note is that I did make little border marks (grey boxes) on their sheet as a basic guide to avoid confusion with the layout of the wireframes just because I didn't draw it out strictly linear and that may be confusing in a way that's just counterproductive - I hope that doesn't interfere too much? In regards to their trial and its outcomes
+
+
 - what went smoothly
 - what didn't / differed from expectations
 
 what you would change or design differently based on the feedback you got from the prototype testing. 
 - wat problem the tester encountered
 - sentence or two how you would address the problem if you were to revise the prototype.
+
+Based on this feedback, I noticed:
+- key problem 1
+> solution suggestion 1
+- key problem 2
+> solution suggestion 2 
+
+
