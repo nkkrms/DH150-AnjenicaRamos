@@ -22,17 +22,18 @@ Now, through low-fidelity prototyping, I can begin bringing these ideas to life.
 ## Prototype 
 
 ### Tasks:
-This low-fidelity prototype features: 
+This low-fidelity prototype features, which have features within their sections: 
 1. redesigned tabular landing page
    - mobile friendly 
    - hierarchical organization based on relevance 
    - usage of icons / descriptive labeling 
 2. symptom checker (survey)
-   - tracking selected symptoms
-   - providing recommendations
-   - general about symptoms list 
+   - track selected symptoms
+   - provide recommendations/action items based on results
+   - ability to learn more with general symptom info directory 
 3. local dashboard 
-   - location services/area selection
+   - set location services/area 
+   - have a tailored dashboard to user's area
    - links to local government sites
    - database of local resources + search navigation
    - database of local news agenices + search 
@@ -40,7 +41,33 @@ etc:
    - accessibility: avoidance of typing (unless search), scroll/click based
    - colors not strict, just to distinguish options from buttons!
    
-### Wireframes/Wireflow
+### Wireframes/Wireflow (original)
 note: view/save-able versions are [*here*](https://drive.google.com/drive/folders/1321mlnP-ATo8WMRQbyc56xphFG0HGX6K?usp=sharing)
 ![wireflow of symptom checker](photos/06.1.png)
 ![wireflow of local dashboard](photos/06.2.png)
+
+### User Testing 
+User tested the originally drafted low-fidelity prototype on the tasks and features presented. Their interactions/writing was recorded 
+video of UT session [*here*]()
+![wireflow of UT symptom checker]()
+![wireflow of UT local dashboard()
+
+0: No evidence of testing is provided
++1: Note the tester’s confusion or unexpected interaction; Note whether the tester could successfully complete the tasks 
+Explain to the person what the system is supposed to do. After that, ask the person to use the prototype to complete each of the tasks you designed, one at a time, without telling the tester how to do it. As the tester taps on the various controls in the prototype, the interaction flow should visually guide the change of the prototype’s state to show the system’s response. It might be a good idea to ask the tester to use a highlighter to follow the interaction points(ex. buttons) and the flow to the next wireframe. 
+Note when the tester gets confused, side-tracked, or stuck in a state s/he can’t get out of. Note if the tester tries to do something in a way that’s different than how you designed the functionality to work. Note if s/he is able to complete the test tasks successfully.
+
+
+
+### Reflections
+
+user testing
+
+summary of process (insights --> tasks, make wireframes, turn into wireflow, bring in user testing
+why marked certain things, ut process)
+- what went smoothly
+- what didn't / differed from expectations
+
+what you would change or design differently based on the feedback you got from the prototype testing. 
+- wat problem the tester encountered
+- sentence or two how you would address the problem if you were to revise the prototype.
