@@ -19,7 +19,21 @@ Through the creations of personas and scenarios, I was able to explore these pro
 Now, through low-fidelity prototyping, I can begin bringing these ideas to life. Through drafting user interface designs and creating a workflow of users' interactions with the mobile site, I am able to translate the research insights to a (rough!) product. From here, testing is key to see designs in action and gather feedback for improvement. It is always important to consult participants to understand design shortcomings from outside perspectives that the designer may be blind to. From here, we can then refine designs to continue with the product's development. 
 
 
+
+
+
+
+
+
+
 ## Prototype 
+
+
+
+
+
+
+Explain to the person what the system is supposed to do. After that, ask the person to use the prototype to complete each of the tasks you designed, one at a time, without telling the tester how to do it. As the tester taps on the various controls in the prototype, the interaction flow should visually guide the change of the prototype’s state to show the system’s response. It might be a good idea to ask the tester to use a highlighter to follow the interaction points(ex. buttons) and the flow to the next wireframe. 
 
 ### Tasks:
 This low-fidelity prototype features, which have features within their sections: 
@@ -40,6 +54,16 @@ This low-fidelity prototype features, which have features within their sections:
 etc:
    - accessibility: avoidance of typing (unless search), scroll/click based
    - colors not strict, just to distinguish options from buttons!
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
    
 ### Wireframes/Wireflow (original)
 note: view/save-able versions are [*here*](https://drive.google.com/drive/folders/1321mlnP-ATo8WMRQbyc56xphFG0HGX6K?usp=sharing)
