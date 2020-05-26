@@ -45,7 +45,7 @@ For the graphic elements of the site, I decided to build from the WHO's existing
 ###### Note: I designed this as a mobile site that can be searched on the go, but I also did so with the logic of whatever works (fits/is feasible) to present on a phone can definitely be possible on the desktop. I imagine a desktop site largely following the same formats, with just some widening to accomodate for the landscape dimensions. I decided to work backwards as the original side was not mobile friendly. 
 
 
-#### Accessibility
+### Accessibility
 To test color contrast, I used the Stark Adobe XD Plugin. To gauge the entire prototype's AA level accessibility efficiently, I tested the areas of text and colors that were the smallest or the least visually contrasted. If these bits passed, then the other elements would surely do so. I did find that I had to change some of the original colors I began using, as I just experimented with the color grabber tool to choose them. 
 
 <img src="https://github.com/nkkrms/DH150-AnjenicaRamos/blob/master/photos/07.access1.png" width="50%" height="50%"> 
@@ -59,13 +59,13 @@ To test color contrast, I used the Stark Adobe XD Plugin. To gauge the entire pr
 Prototypes can be found through these links: [symptom checker + pandemic statistics](https://xd.adobe.com/view/0547c6dc-fd59-455f-7a88-bd32df81b683-7376/) and [local dash + location settings](https://xd.adobe.com/view/b3b24d0e-ca6a-402f-60f6-39a6c879065c-c583/?fullscreen&hints=off)
 
 
-#### Impression Test
+### Impression Test
 0: No evidence of the impression test
 +1: Provide the evidence of impression test with the raw data (video/audio recording) or the quotation/transcript
 +1: Summary of findings 
 
 
-#### In-Class Cognitive Walkthrough
+### In-Class Cognitive Walkthrough
 Here is the feedback I received from 3 other classmates during our cognitive walkthrough and critique, based on what was written in the form submitted (shorthand) and then a brief summary of our verbal exchange.
 
 Any other comments?	
