@@ -1,4 +1,4 @@
-# Assignment05=7: HIGH-FIDELITY PROTOTYPE
+# Assignment07: HIGH-FIDELITY PROTOTYPE
 ##### Anjenica (Nikki) Ramos
 ##### DH 150: User Experience Design, Spring 2020 - Prof. Cho
 
