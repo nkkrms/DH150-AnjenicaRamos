@@ -44,10 +44,6 @@ For the graphic elements of the site, I decided to build from the WHO's existing
 
 ###### Note: I designed this as a mobile site that can be searched on the go, but I also did so with the logic of whatever works (fits/is feasible) to present on a phone can definitely be possible on the desktop. I imagine a desktop site largely following the same formats, with just some widening to accomodate for the landscape dimensions. I decided to work backwards as the original side was not mobile friendly. 
 
-#### Impression Test
-0: No evidence of the impression test
-+1: Provide the evidence of impression test with the raw data (video/audio recording) or the quotation/transcript
-+1: Summary of findings 
 
 #### Accessibility
 To test color contrast, I used the Stark Adobe XD Plugin. To gauge the entire prototype's AA level accessibility efficiently, I tested the areas of text and colors that were the smallest or the least visually contrasted. If these bits passed, then the other elements would surely do so. I did find that I had to change some of the original colors I began using, as I just experimented with the color grabber tool to choose them. 
@@ -63,19 +59,38 @@ To test color contrast, I used the Stark Adobe XD Plugin. To gauge the entire pr
 Prototypes can be found through these links: [symptom checker + pandemic statistics]() and [local dash + location settings]()
 
 
-#### Cognitive Walkthrough
-0: No evidence of cognitive walkthrough
-+1: Provide the evidence of cognitive walkthrough
+#### Impression Test
+0: No evidence of the impression test
++1: Provide the evidence of impression test with the raw data (video/audio recording) or the quotation/transcript
 +1: Summary of findings 
 
 
+#### In-Class Cognitive Walkthrough
+Here is the feedback I received from 3 other classmates during our cognitive walkthrough and critique, based on what was written in the form submitted (shorthand) and then a brief summary of our verbal exchange.
+
+Any other comments?	
+> ***Not too busy, not too overwhelming, professional.*** I also included the URL of the current WHO site so they were able to go on it and compare and they did find them to allign with one another. It was actually one of their comments that noted this is good because users would need to transition from one site to another and they should be alike in a way that keeps people comfortable. This resonated with me and I kept that in mind as I especially built on new features. I kept thinking what this would be like to a user who may have been familiar/primed by their experience of the old site - would they trust it still? would it be intuitive to follow?
+
+Do you think the users can understand what this screen is about?
+> ***understandable, yes, it's clearly labeled*** They noted how it's a clear heading in each place, but that maybe it can be 'jazzed up' more decoratively or outlined in some way. They did agree that I'd need a way to make the screen's name stand out, but not be too big and take up limited space.
+
+Do you think the users can recognize this (interaction point/ information)?	
+> ***clear where you have to click, but yes/no buttons might be too similar/mistaken with other buttons*** The points of interaction were clear, but that buttons of opposing options may look too alike to the listed options in the symptom checker, so that they can be pressed wrong. We briefly talked about how colors and placement may play a role. This led me to ultimately increase the space between listed options and buttons, as well as write out the explanations for yes/no meanings to be more explicit. 
+
+Do you think the users can feel that the progress is being made toward what they want to achieve?	
+> ***I think it'd be good to have a progress bar.*** While their feedback did cause me to consider adding a progress bar for the symptom checker, I decided against it logistically because of the varying directions a user's answers can lead them. The more extreme the case, the shorter it is because I asked for the more pressing symptoms first. So, not everyone taking it experiences the same set of questions, actually. But this sense of 'keeping track of where you are' and not being too deep into scrolling or nested pages stayed with me. As I revised pages, I thought of whether things needed to be presented a certain way - why a list? why 1 column or 2? can you retrace your steps to get back here? 
+
+Is there anything inconsistent, missing, or confusing?
+> ***back button, inconsistencies between making things centered or left leaning.*** I had home buttons, but was missing a back button for the symptom tracker, and how to just get back to the Local Dashboard from the pages within it. I asked if they thought it'd be useful, since I originally worried people would change their answers to not seem as sick, but then my groupmembers pointed out that's a personal choice with their consequences, but that it'd be more of an annoyance to accidentally make a mistake and have to restart. Also, it was noted to me that I should be more consistent with making text or button labels centered or alligned to the left side r to have a convention. So, for the pages' formats, things were centered if they were important information like headers, but left leaning if they were lists or if I wanted someone to start left-to-right while scanning like the carousel. Buttons similarly, centered ones are just like single-instructions like 'Begin' or 'Submit', while those with explanations are left-alligned. 
+
+Any other comments?
+> ***orange = emergency color, use as attention grabbers but don't overdo it.*** Piggybacking on another groupmembers' prototype which had some clashing colors, I got asked why I chose orange in some areas. I told them how it was already something on the site, and they said it's nice to draw attention, but sometimes does give off this sense of an emergency. I was told it's good for the symptom tracker and maybe ~if~ the advice is to get help, but describing the non-emergency recommendations as orange (which I originally did just for consistency, not even thinking of this) seems contradictory and uncessarily alarming. I asked if they think it should be anywhere else in the site, as the original site had orange scattered, they said no because it might lose its effect and/or be confused as a general brand color, which it's not. I asked if they thought red or yellow was better, they said no because red looks unflattering with the teal and yellow may present problems with readability, which I agreed. 
+
+
 ### Reflection:
-description of what you learned from other’s feedback and what you have made the changes
-0: No summary or reflection 
-+1: Summary of the process, what went smoothly or differently from your expectation
 
-+1: What you would change or design differently based on the feedback you got from the prototype testing. 
-Tip: if your multiple versions of the prototype design reflect your time and effort to improve from other’s feedback, it is a good reason for the instructor to give you extra credits
+I really enjoyed making the high-fidelity prototype! I felt it exciting to see your ideas manifest, but also found it really helpful to do the prior weeks' research and also the low-fidelity sketch to outline things instead of starting from scratch. Being most excited about the 'making' aspect of anything creative, my first instinct is to jump right into things, but this class has generally taught me the importance of proper setup. While this did take 1.5 weeks to make, it was not frustrating because I wasn't trying to conduct multiple steps at once (i.e. thinking about what users want, comparing the existing design with heuristics, testing it myself a billion times). I was able to have a clear aim having refined my project over the last couple weeks, and now was just about bringing it to life. 
 
+This went smoothly in a sense that I literally learned Adobe XD last week, and that I'm astonished I was able to develop it this far with just practicing and looking up youtube tutorials. What I thought could be done in about 1-2 sittings really took hours upon each step because of the learning curve that just comes with the system, but, even in this single span of time, I feel like it was easy to pick up overall. I definitely underestimated the time it would take to make thorough decisions based on the feedback I received and that I definitely need to adjust my screen's brightness levels (lol). It also took quite some time to gather the real resources and news sources I wanted to feature in my Local Dashobard section -- I actually researched all those places and wanted it to appear legitimate. I discussed that too in my cognitive walkthough with my classmates, about the extra step of adding content to our prototypes that required research and formating. Will definitely learn to account for that in time management.
 
-
+From prototype testing, I think I would need to adjust some pieces of text to make things just more readable, that, while they pass the AA guidelines, there's always more room for clarity. In terms of interaction, it's more of an animation thing, but also does address this sense of feedback, to have buttons change colors when something is selected across the prototype, that way users have a better sense of what they're doing and not just the screen changes. I'd play around with how to make dropdowns and dragging motions more realistic. I'd like to learn how to make effects like an opaqueness over pictures if you press or hover on it, or have a scrollable dropdown menu (if that's even possible).
