@@ -56,7 +56,7 @@ To test color contrast, I used the Stark Adobe XD Plugin. To gauge the entire pr
 
 ### Interactive Prototype:
 
-Prototypes can be found through these links: [symptom checker + pandemic statistics]() and [local dash + location settings]()
+Prototypes can be found through these links: [symptom checker + pandemic statistics](https://xd.adobe.com/view/0547c6dc-fd59-455f-7a88-bd32df81b683-7376/) and [local dash + location settings](https://xd.adobe.com/view/b3b24d0e-ca6a-402f-60f6-39a6c879065c-c583/?fullscreen&hints=off)
 
 
 #### Impression Test
