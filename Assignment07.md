@@ -2,19 +2,27 @@
 ##### Anjenica (Nikki) Ramos
 ##### DH 150: User Experience Design, Spring 2020 - Prof. Cho
 
-### PROJECT OVERVIEW, PURPOSES/PROCESS OF PROTOTYPING 
-Prior user research enabled me, the designer, to learn basic needs of potential users from their behaviors. However, observing and testing only a small number of volunteers, this does not give a complete picture of the product's audience. My volunteer subjects may also hold particular quirks or personal preferences that do not generalize to the spectrum of users the product must account for. So, to further research, user experience storytelling will provide a way to consider other hypothetical users by building personas and stories, taking into account thei demographics, motivations, and mannerisms, which can all influence their interaction with the product. 
-> Through UX storytelling, we are able to understand more vividly *why* various users may seek the product and *how* yjr product can be improved. We are also able to better consider design trade-offs to cater to multiple audiences, improve functionality, and design to meet their needs and goals, which designates the success of developing a product for public use. 
+### Project Overview
+My project involves an improvement and expansion of the existing World Health Organization COVID-19 resource website. Here, I use a high-fidelity prototype to demonstrate additional features and reinvisioned site interface design. A high-fidelity prototype serves to materialize the insights of user research and designer solutions by being an interactive sample of (nearly) the product in action. With a more concrete model, we are able to demonstrate ideas in mind and test the prototype itself, which can bring to light more potential insights from firsthand experience. 
+
+### Tasks + Representative Screens
+
+This prototype supports the following tasks:
+
+1) **COVID-19 Symptom Checker:** While offering information about the Coronavirus, the WHO does not have a more direct way for users to apply symptom information in real life. In addition to knowing about symptoms for common knowledge, users may be reading to compare what they may feel themselves. To make this more feasible, the Symptom Checker will use user demographics, situation (living situation, health care work, travel), pre-existing conditions, and COVID-19 symptoms to assess users' risks, give action items, and further reading resources. 
+![wireframe](photos/.png)
+
+2) **Hideable Worldwide statistics:** An eye-catching feature of the WHO site is their presentation of worldwide COVID-19 cases and deaths, as well as the countries affected. Currently, this is just shown numerically, but links to another site of theirs dedicated to this. While this is interesting and frequently reported on the news, this can be overwhelming for some. So, making it as a show/hide function can remove it from view. In addition, providing it as a chart as opposed to just the values can contextualize the situation more for those who want to know.
+![wireframe](photos/.png)
+
+3) **Local dashboard:** This is a new section that allows users to get more localized news, information, and resources, which was determined to be valuable from prior research feedback. While the WHO is in the business of generalized information of worldwide coverage, it would be helpful for them as a trusted source to connect users with the existing sources in their area. This dashboard provides a hub of sorts that shows news by media type and resource by focus in a graphical manner (since people are more likely to recognize logos than lists), and (in action, but can't be shown in the prototype) hyperlinks out to those agencies and organizations' sites. 
+![wireframe](photos/.png)
+
+4) **Setting location:** To have a 'functional' (mocked here for prototype purposes) Local Dash, one would need to input their location. This can be done through using your phone's location services with permission, or manual user input (mocked here for protoype purposes). This would be a one-time setup, which then users can refer back to or change if they were to change places as well.  
+![wireframe](photos/.png)
 
 
-### TASKS SUPPORTED BY INTERACTIVE PROTOTYPE
-
-
-
-### IMAGE WITH REPRESENTATIVE EXAMPLES OF SCREEN DESIGNS (3-5 SCREENS)
-
-
-### GRAPHIC INTERFACE
+### Graphic Design + User Interface 
 Description of your decision making of the graphical interface design, including the choice of the color scheme and note if you considered/checked accessibility color contrast.
 
 One image(diagram) with the wireflow with graphic design 
