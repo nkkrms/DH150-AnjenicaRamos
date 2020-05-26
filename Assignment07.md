@@ -1,6 +1,6 @@
 # Assignment07: HIGH-FIDELITY PROTOTYPE
-##### Anjenica (Nikki) Ramos
-##### DH 150: User Experience Design, Spring 2020 - Prof. Cho
+#### Anjenica (Nikki) Ramos
+#### DH 150: User Experience Design, Spring 2020 - Prof. Cho
 
 ### Project Overview
 My project involves an improvement and expansion of the existing World Health Organization COVID-19 resource website. Here, I use a high-fidelity prototype to demonstrate additional features and reinvisioned site interface design. A high-fidelity prototype serves to materialize the insights of user research and designer solutions by being an interactive sample of (nearly) the product in action. With a more concrete model, we are able to demonstrate ideas in mind and test the prototype itself, which can bring to light more potential insights from firsthand experience. 
@@ -59,11 +59,11 @@ To test color contrast, I used the Stark Adobe XD Plugin. To gauge the entire pr
 Original prototypes can be found through these links: [symptom checker + pandemic statistics](https://xd.adobe.com/view/0547c6dc-fd59-455f-7a88-bd32df81b683-7376/) and [local dash + location settings](https://xd.adobe.com/view/b3b24d0e-ca6a-402f-60f6-39a6c879065c-c583/screen/af9be4a0-4e0f-446d-ac5b-c6cacef46bf4/Local-Dashboard?fullscreen&hints=off)
 
 
-### Impression Test
+### Impression Test:
 
 The screen recording of the impression test can be found [here](https://drive.google.com/file/d/16uhN341RfDzPlGw9BdLcVndHN3w2jbCh/view?usp=sharing). 
 
-Findings + Potential Changes 
+#### Findings + Potential Changes:
 For the most part, the prototype was functional and clear, so I'm generally not going to dwell on that. The participant reiterated some things what were noted in how I designed it, and was able to go through the tasks.
 
 **consistent home button**
