@@ -56,13 +56,24 @@ To test color contrast, I used the Stark Adobe XD Plugin. To gauge the entire pr
 
 ### Interactive Prototype:
 
-Prototypes can be found through these links: [symptom checker + pandemic statistics](https://xd.adobe.com/view/0547c6dc-fd59-455f-7a88-bd32df81b683-7376/) and [local dash + location settings](https://xd.adobe.com/view/b3b24d0e-ca6a-402f-60f6-39a6c879065c-c583/?fullscreen&hints=off)
+Original prototypes can be found through these links: [symptom checker + pandemic statistics](https://xd.adobe.com/view/0547c6dc-fd59-455f-7a88-bd32df81b683-7376/) and [local dash + location settings](https://xd.adobe.com/view/b3b24d0e-ca6a-402f-60f6-39a6c879065c-c583/screen/af9be4a0-4e0f-446d-ac5b-c6cacef46bf4/Local-Dashboard?fullscreen&hints=off)
 
 
 ### Impression Test
-0: No evidence of the impression test
-+1: Provide the evidence of impression test with the raw data (video/audio recording) or the quotation/transcript
-+1: Summary of findings 
+
+The screen recording of the impression test can be found [here](https://drive.google.com/file/d/16uhN341RfDzPlGw9BdLcVndHN3w2jbCh/view?usp=sharing). 
+
+Findings + Potential Changes 
+For the most part, the prototype was functional and clear, so I'm generally not going to dwell on that. The participant reiterated some things what were noted in how I designed it, and was able to go through the tasks.
+
+**consistent home button**
+> For checking that there wasn't a dead end at the Local Dashboard, the participant hesitated at pressing the WHO, which was the 'home button' to go back to the landing page. I think it was unclear because in the previous task, which was separate, a home button was indicated with a house and arrow. They noted that, for the sake of consistency, to just have one throughout. I definitely just didn't think this one through, as I originally chose the home symbol, but thought it'd be nice to hace a sense of officialness to the local pages by having the logo present throughout. So, I'll definitely play around with both to see which one fits best. 
+
+**Bigger font for the statistics** 
+> While the participant didn't comment on this verbally, I noticed that the physically moved closer to the screen in trying to read the labels of the global outbreak statistics and the local statistics in the Local Dash section. So, this still needs to be improved either color wise or size wise despite technically passing guidelines. 
+
+-**Centering text labels for local resources/too much blank space** 
+> In the Local Dashboard's resource section, the participant suggested reordering the presentation of the resources and also changing the category labels to be bigger and centered due to the blank space it in the wide banner. This wasn't the caase for the general Dashboard, as those labels were two worded and are just longer, but these ones do look more tucked in one side area when it could be more prominent. 
 
 
 ### In-Class Cognitive Walkthrough
@@ -93,4 +104,8 @@ I really enjoyed making the high-fidelity prototype! I felt it exciting to see y
 
 This went smoothly in a sense that I literally learned Adobe XD last week, and that I'm astonished I was able to develop it this far with just practicing and looking up youtube tutorials. What I thought could be done in about 1-2 sittings really took hours upon each step because of the learning curve that just comes with the system, but, even in this single span of time, I feel like it was easy to pick up overall. I definitely underestimated the time it would take to make thorough decisions based on the feedback I received and that I definitely need to adjust my screen's brightness levels (lol). It also took quite some time to gather the real resources and news sources I wanted to feature in my Local Dashobard section -- I actually researched all those places and wanted it to appear legitimate. I discussed that too in my cognitive walkthough with my classmates, about the extra step of adding content to our prototypes that required research and formating. Will definitely learn to account for that in time management.
 
-From prototype testing, I think I would need to adjust some pieces of text to make things just more readable, that, while they pass the AA guidelines, there's always more room for clarity. In terms of interaction, it's more of an animation thing, but also does address this sense of feedback, to have buttons change colors when something is selected across the prototype, that way users have a better sense of what they're doing and not just the screen changes. I'd play around with how to make dropdowns and dragging motions more realistic. I'd like to learn how to make effects like an opaqueness over pictures if you press or hover on it, or have a scrollable dropdown menu (if that's even possible).
+From what I've learned here, I have made some changes. For one, I increased some text sizes, especially at the statistics area, to be more readable -- I also made the color convention the same for both (before the blue/grey were switched). They now don't just *barely* AA guidelines and are more clear. I also changed some labeling, the home button to the home symbol for the Local Dash areas, and rearranged the carousels.
+
+These changes are reflected in these prototypes: [symptom checker + pandemic statisticsv2](https://xd.adobe.com/view/0547c6dc-fd59-455f-7a88-bd32df81b683-7376/?fullscreen) and [local dash + location settingsv2](https://xd.adobe.com/view/b3b24d0e-ca6a-402f-60f6-39a6c879065c-c583/?fullscreen)
+
+Moving forward, I'd also like to improve on the general presentation of the prototype in terms of animation skills., It'd be nice to to have buttons change colors when something is selected across the prototype, that way users have a better sense of what they're doing as regular feedback, as opposed to the screen just changing. I'd play around with how to make dropdowns and dragging motions more realistic. I'd also like to learn how to make effects like an opaqueness over pictures if you press or hover on it, or have a scrollable dropdown menu (if that's even possible).
