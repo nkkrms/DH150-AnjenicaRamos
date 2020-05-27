@@ -47,24 +47,33 @@ To widen my consideration of various potential users who may turn to the WHO COV
 [Read More >>](https://github.com/nkkrms/DH150-AnjenicaRamos/blob/master/Assignment05.md)
 
 
-7) Wireframe and graphic design element variation [assignment06 + part of 07]
+## Wireframe + Graphic Design [assignment06 + part of 07]
 
-The wireframe and flow sketches here outline the initial inception of these potential solutions. A redesigned site that is functionable on mobile will surely be adaptable to work online. A streamlined homepage displays the various directions one can go when visiting the WHO COVID-19 site, whether it be to gather general understanding, answer specific concerns, or look into innovative research and unfolding news. Immediately, users can access the Symptom Checker, answer questions about symptoms, demographics, and recent activity to get a recommendation. They can also look at local and global statistics from a collapsable module. By using one's location information, users can also use the Local Dashboard to get information tailored to their area. [Read More >>](https://github.com/nkkrms/DH150-AnjenicaRamos/blob/master/Assignment06.md)
-![wireflow of symptom checker](photos/06.1.png)
-![wireflow of local dashboard](photos/06.2.png)
+The wireframe and flow sketches here outline the initial inception of these potential solutions. When initially creating each screen, I want to stick to a minimalistic display that was straight to the point in the info it needs to convey. I wanted to minimize the amount of scrolling the user needs to do and make sure each page's purpose was clear and useful. Regarding the flow, I wanted it to follow one another intuitively, so that users could understand quickly (ideally from first use) how to interact with the page and move between frames. I gathered information from the WHO site, and the CDC about symptoms and consulted existing symptom surveys, which seemed pretty rudamentary on their own since these features don't seem to be widespread yet. In general, about the process of developing my initial wireframes and flow, I thought about how to get from a to b and do tasks step by step, and thought I'd just build on additional features once I had a foundation laid out. [Read More >>](https://github.com/nkkrms/DH150-AnjenicaRamos/blob/master/Assignment06.md)
+
+In terms of the graphic interface, I decided to build up from the existing World Health Organization's branding of a teal-blue and white, with black/grey text and burnt orange accent color for attention-grabbing. I added muted monochromatic tints of those base colors to add variation to backgrounds, depth to features, and highlight certain areas without reducing the simplicity of the design. I also implemented text as grey mostly instead of black as in the current site to reduce harshness on the eyes, but still retain WCAG AA-level accessibility. Overall, I wanted the site to be recognizable for users if this were implemented and users were primed by their experience of the previous site. 
 
 
-8) Low-fidelity prototype (wireflow, assignment06)
+## Low-fidelity prototype (wireflow, assignment06)
 Summary and link to the sketches (may contains the multiple versions and evaluation history)
-This low-fidelity prototype expands upon the features above, which were initially prompted by conducted user research, personas, and scenarios. 
 
-9) High-fidelity prototype (functional/interactive prototype, assignment08)
-Summary statement and link to or an embedded prototype
+![lofi-prototyupe](https://github.com/nkkrms/DH150-AnjenicaRamos/blob/master/photos/06.1.png)
+![lofi-prototyupe](https://github.com/nkkrms/DH150-AnjenicaRamos/blob/master/photos/06.2.png)
+
+My low-fidelity prototype displays a redesigned site that is functional on mobile devices, ensuring that it will urely be adaptable to work online. A streamlined homepage displays the various directions one can go when visiting the WHO COVID-19 site, whether it be to gather general understanding, answer specific concerns, or look into innovative research and unfolding news. Immediately, users can access the Symptom Checker, answer questions about symptoms, demographics, and recent activity to get a recommendation. They can also look at local and global statistics from a collapsable module. By using one's location information, users can also use the Local Dashboard to get information tailored to their area. [Read More >>](https://github.com/nkkrms/DH150-AnjenicaRamos/blob/master/Assignment06.md)
 
 
-10) Optional evaluation and revision history 
-Including cognitive walkthrough; impression test, accessibility audit, usability testing), per each summary and link to the notes (when you share the video or other detailed evidences, I will notify you when you can make the contents private as soon as your work is graded)
+## High-fidelity prototype (functional/interactive prototype, assignment08)
 
-11) Pitch video 
+I expanded from the original sketches of the wireframes/flow to make a mock-site that can demonstrate the tasks and features I wanted to create, as well as generally improve upon the interface throughout. By doing so, I am able to create a functional display of my initial ideas, which gives a formalized, professional display nearing the final product. Through a high fidelity prototype, I am able to test the tools and features rounds of user testing, design evaluation, and persona/scenario creation has led me to develop. From here, I am able to get a firsthand sense of the potential points of confusion, visual pitfalls, and awkwardness in flow users may come across when using what's supposed to be an improved-upon resource. 
 
-12) Conclusion: what did you learn throughout the process?
+My high-fidelity prototype was made with Adobe XD, the Stark plugin for color-contrast testing, and the free XD UI kits for icons.
+
+
+## Pitch video 
+tbd :O
+
+## Conclusion: 
+I was initally drawn to UX/UI coming from a general creative background of art, illustration, and DIYs, and so, my first thought is to lightly plan things out, but then to *do the thing* and [make]. While I had a starting intuition towards visual design and process thinking, undergoing a full cycle of user experience design revealed to me the layers (!!!) of underlying research, planning, consultation, feedback, and hypothetical/critical thinking that goes into truly developing a product (*A week per step! Realistically even longer in industry! Done in teams that have to work and communicate with eachother!*). I gained a more holistic understanding of what drives user experience design, from defining your project, purpose, and audience, as well as the technical skills from software to formal documentation that will enable me to apply this towards personal projects and hopefully a career later on. 
+
+Firsthand experience with project structure also helped train a better sense of 'designing with direction' in mind, accounting for trade-offs and the grounded logistics of having to cater to target audiences. I also enjoyed the overarching idea of applying the project towards public good and community benefit, as it instilled in me a greater consciousness about how UX/UI plays a role in how we are all able to utilize public resources.  
