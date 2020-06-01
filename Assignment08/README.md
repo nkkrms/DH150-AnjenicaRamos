@@ -48,12 +48,13 @@ The wireframe and flow sketches here outline the initial inception of these pote
 
 In terms of the graphic interface, I decided to build up from the existing World Health Organization's branding of a teal-blue and white, with black/grey text and burnt orange accent color for attention-grabbing. I added muted monochromatic tints of those base colors to add variation to backgrounds, depth to features, and highlight certain areas without reducing the simplicity of the design. I also implemented text as grey mostly instead of black as in the current site to reduce harshness on the eyes, but still retain WCAG AA-level accessibility. Overall, I wanted the site to be recognizable for users if this were implemented and users were primed by their experience of the previous site. 
 
-![colors](https://github.com/nkkrms/DH150-AnjenicaRamos/blob/master/photos/07.colors.png)
+![colors](https://nkkrms.github.io/DH150-AnjenicaRamos/photos/07.colors.png)
+
 
 
 ## Low-Fidelity Prototype
 
-![lofi-prototyupe](https://github.com/nkkrms/DH150-AnjenicaRamos/blob/master/photos/06.1.png)
+![lofi-prototyupe](https://nkkrms.github.io/DH150-AnjenicaRamos/photos/06.1.png)
 ![lofi-prototyupe](https://github.com/nkkrms/DH150-AnjenicaRamos/blob/master/photos/06.2.png)
 
 My low-fidelity prototype displays a redesigned site that is functional on mobile devices, ensuring that it will urely be adaptable to work online. A streamlined homepage displays the various directions one can go when visiting the WHO COVID-19 site, whether it be to gather general understanding, answer specific concerns, or look into innovative research and unfolding news. Immediately, users can access the Symptom Checker, answer questions about symptoms, demographics, and recent activity to get a recommendation. They can also look at local and global statistics from a collapsable module. By using one's location information, users can also use the Local Dashboard to get information tailored to their area. [Read More >>](https://github.com/nkkrms/DH150-AnjenicaRamos/blob/master/Assignment06.md)
