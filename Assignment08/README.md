@@ -48,22 +48,22 @@ The wireframe and flow sketches here outline the initial inception of these pote
 
 In terms of the graphic interface, I decided to build up from the existing World Health Organization's branding of a teal-blue and white, with black/grey text and burnt orange accent color for attention-grabbing. I added muted monochromatic tints of those base colors to add variation to backgrounds, depth to features, and highlight certain areas without reducing the simplicity of the design. I also implemented text as grey mostly instead of black as in the current site to reduce harshness on the eyes, but still retain WCAG AA-level accessibility. Overall, I wanted the site to be recognizable for users if this were implemented and users were primed by their experience of the previous site. 
 
-![colors](https://nkkrms.github.io/DH150-AnjenicaRamos/photos/07_colors.png)
+![colors](https://raw.githubusercontent.com/nkkrms/DH150-AnjenicaRamos/master/photos/07_colors.png)
 
 
 
 ## Low-Fidelity Prototype
 
-![lofi-prototyupe](https://nkkrms.github.io/DH150-AnjenicaRamos/photos/06_1.png)
-![lofi-prototyupe](https://github.com/nkkrms/DH150-AnjenicaRamos/blob/master/photos/06_2.png)
+![lofi-prototyupe](https://raw.githubusercontent.com/nkkrms/DH150-AnjenicaRamos/master/photos/06_1.png)
+![lofi-prototyupe](https://raw.githubusercontent.com/nkkrms/DH150-AnjenicaRamos/master/photos/06_2.png)
 
 My low-fidelity prototype displays a redesigned site that is functional on mobile devices, ensuring that it will urely be adaptable to work online. A streamlined homepage displays the various directions one can go when visiting the WHO COVID-19 site, whether it be to gather general understanding, answer specific concerns, or look into innovative research and unfolding news. Immediately, users can access the Symptom Checker, answer questions about symptoms, demographics, and recent activity to get a recommendation. They can also look at local and global statistics from a collapsable module. By using one's location information, users can also use the Local Dashboard to get information tailored to their area. [Read More >>](https://github.com/nkkrms/DH150-AnjenicaRamos/blob/master/Assignment06.md)
 
 
 ## High-Fidelity Prototype
 
-![hifi-prototyupe](https://github.com/nkkrms/DH150-AnjenicaRamos/blob/master/photos/07_rep1.png)
-![hifi-prototyupe](https://github.com/nkkrms/DH150-AnjenicaRamos/blob/master/photos/07_rep2.png)
+![hifi-prototyupe](https://raw.githubusercontent.com/nkkrms/DH150-AnjenicaRamos/master/photos/07_rep1.png)
+![hifi-prototyupe](https://raw.githubusercontent.com/nkkrms/DH150-AnjenicaRamos/master/photos/07_rep2.png)
 
 I expanded from the original sketches of the wireframes/flow to make a mock-site that can demonstrate the tasks and features I wanted to create, as well as generally improve upon the interface throughout. By doing so, I am able to create a functional display of my initial ideas, which gives a formalized, professional display nearing the final product. Through a high fidelity prototype, I am able to test the tools and features rounds of user testing, design evaluation, and persona/scenario creation has led me to develop. From here, I am able to get a firsthand sense of the potential points of confusion, visual pitfalls, and awkwardness in flow users may come across when using what's supposed to be an improved-upon resource. [Read More >>](https://github.com/nkkrms/DH150-AnjenicaRamos/blob/master/Assignment07.md)
 
