@@ -70,7 +70,8 @@ I expanded from the original sketches of the wireframes/flow to make a mock-site
 #### My high-fidelity prototype was made with Adobe XD, the Stark plugin for color-contrast testing, and the free XD UI kits for icons.
  
 ## Pitch Video
-tbd :O
+YouTube: https://youtube.com/embed/<i3Ga1iUmR9M>
+
 
 ## Conclusion
 I was initally drawn to UX/UI coming from a general creative background of art, illustration, and DIYs, and so, my first thought is to lightly plan things out, but then to do the thing and [make]. While I had a starting intuition towards visual design and process thinking, undergoing a full cycle of user experience design revealed to me the layers (!!!) of underlying research, planning, consultation, feedback, and hypothetical/critical thinking that goes into truly developing a product (A week per step! Realistically even longer in industry! Done in teams that have to work and communicate with eachother!). I gained a more holistic understanding of what drives user experience design, from defining your project, purpose, and audience, as well as the technical skills from software to formal documentation that will enable me to apply this towards personal projects and hopefully a career later on.
