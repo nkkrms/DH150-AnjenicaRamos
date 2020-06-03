@@ -60,7 +60,7 @@ I expanded from the original sketches of the wireframes/flow to make a mock-site
 **Test the prototypes here:** [symptom checker + pandemic statistics](https://xd.adobe.com/view/0547c6dc-fd59-455f-7a88-bd32df81b683-7376/?fullscreen) and [local dash + location settings](https://xd.adobe.com/view/b3b24d0e-ca6a-402f-60f6-39a6c879065c-c583/?fullscreen)
 
 #### My high-fidelity prototype was made with Adobe XD, the Stark plugin for color-contrast testing, and the free XD UI kits for icons.
-
+ 
 ## Pitch Video
 tbd :O
 
