@@ -34,6 +34,14 @@ To widen my consideration of various potential users who may turn to the WHO COV
 
 [Read More >>](https://github.com/nkkrms/DH150-AnjenicaRamos/blob/master/Assignment05.md)
 
+### Tasks/Features
+Through personas and scenarios, I was able to embody what countless users like them would want and need. This refined project’s aim into focusing on certain features. 
+1. A revamped, tabular interface that’s mobile friendly and accessible on the go
+2. A Global Statistics display that's visible when you want it, but hidable when you dont
+3. A “Symptom Checker” feature to quickly self-assess and get recommended steps and further reading
+4. A "Local Dashboard" that uses user location to show local COVID stats, news, policy, and resources 
+
+
 ### Wireframe + Graphic Design
 The wireframe and flow sketches here outline the initial inception of these potential solutions. When initially creating each screen, I want to stick to a minimalistic display that was straight to the point in the info it needs to convey. I wanted to minimize the amount of scrolling the user needs to do and make sure each page's purpose was clear and useful. Regarding the flow, I wanted it to follow one another intuitively, so that users could understand quickly (ideally from first use) how to interact with the page and move between frames. I gathered information from the WHO site, and the CDC about symptoms and consulted existing symptom surveys, which seemed pretty rudamentary on their own since these features don't seem to be widespread yet. In general, about the process of developing my initial wireframes and flow, I thought about how to get from a to b and do tasks step by step, and thought I'd just build on additional features once I had a foundation laid out. [Read More >>](https://github.com/nkkrms/DH150-AnjenicaRamos/blob/master/Assignment06.md)
 
