@@ -21,12 +21,15 @@ In gathering further insight, I conducted a participatory observation session an
 To widen my consideration of various potential users who may turn to the WHO COVID-19 site, I constructed (3) user personas and scenarios to contextualize the multitude of reasons and needs the improved site must address. 
 
 **Dan Miller**, a husband, dad, and teacher who is responsible for guiding his family and students through COVID. He'll need a COVID-19 site that is easily navigatable, memorable for recurring reference, and reliable enough to recommend to fellow collegues, his students, and their parents.
+![persona](https://raw.githubusercontent.com/nkkrms/DH150-AnjenicaRamos/master/photos/dan_about.png)
 > Dan could benefit from a restructed WHO site whose tabular homepage and consistent, straightforward information would allow him to find what he needs, relay the information to those in his life, and pass along the source himself.
 
 **Bethany Ramirez** is a working professional who just relocated to a new city before the virus struck, leaving her unfamiliar with her surroundings while self-isolating alone. She'll need a COVID-19 source that will inform her about the situation, as well as point her towards trusted resources and statistics that are in her area.
+![persona](https://raw.githubusercontent.com/nkkrms/DH150-AnjenicaRamos/master/photos/beth_about.png)
 > Bethany could benefit from the inclusion of geographically local news, statistics, and resources in a section that will be a one-stop-shop towards arming herself with relevant knowledge and launching point to connect with nearby supprt.
 
 **Kathryn Chen** is a parent, immigrant, and small business owner who may have been exposed to the COVID-19. She'll need a COVID-19 source that will allow her to assess her symptoms and act accordingy, while being easily undertandable for someone with English as a second language.
+![persona](https://raw.githubusercontent.com/nkkrms/DH150-AnjenicaRamos/master/photos/kath_about.png)
 > Kathryn could benefit from the creation of a symptom checker that allows quick self-assessment and provides recommended next steps in addition to potential deeper reading, so that she is able to act in the best interest of her and her child's health.
 
 [Read More >>](https://github.com/nkkrms/DH150-AnjenicaRamos/blob/master/Assignment05.md)
@@ -43,6 +46,7 @@ In terms of the graphic interface, I decided to build up from the existing World
 ## Low-Fidelity Prototype
 ![lofi-prototype](https://raw.githubusercontent.com/nkkrms/DH150-AnjenicaRamos/master/photos/06_1.png)
 ![lofi-prototype](https://raw.githubusercontent.com/nkkrms/DH150-AnjenicaRamos/master/photos/06_2.png)
+
 
 My low-fidelity prototype displays a redesigned site that is functional on mobile devices, ensuring that it will urely be adaptable to work online. A streamlined homepage displays the various directions one can go when visiting the WHO COVID-19 site, whether it be to gather general understanding, answer specific concerns, or look into innovative research and unfolding news. Immediately, users can access the Symptom Checker, answer questions about symptoms, demographics, and recent activity to get a recommendation. They can also look at local and global statistics from a collapsable module. By using one's location information, users can also use the Local Dashboard to get information tailored to their area. [Read More >>](https://github.com/nkkrms/DH150-AnjenicaRamos/blob/master/Assignment06.md)
 
