@@ -70,7 +70,8 @@ I expanded from the original sketches of the wireframes/flow to make a mock-site
 #### My high-fidelity prototype was made with Adobe XD, the Stark plugin for color-contrast testing, and the free XD UI kits for icons.
  
 ## Pitch Video
-YouTube: https://youtube.com/embed/<i3Ga1iUmR9M>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/i3Ga1iUmR9M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ## Conclusion
